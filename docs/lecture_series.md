@@ -35,6 +35,14 @@ To *view* the notebooks on Binder use the links below.
 
 ---
 
+#### Lecture 3
+
+---
+
+#### Lecture 4
+
+---
+
 Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Geophysical-inversion-undergraduate/notebooks/)
 
 
