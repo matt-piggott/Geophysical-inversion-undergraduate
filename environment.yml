@@ -1,0 +1,6 @@
+name: numericalmethods
+dependencies:
+ - jupyter
+ - numpy
+ - scipy
+ - matplotlib
