@@ -10,12 +10,13 @@ To run and edit the notebooks yourselves we have several options:
 
 ---
 
-### Edit and run them locally using Anaconda
+## Edit and run them locally using Anaconda
+
 It is possible to run everything on your desktop/laptop - this is a good option if you have firewall or internet issues. Anaconda should be installed on departmental machines. To install yourself look at [Anaconda](https://www.anaconda.com/download/) and choose Python 3.x. You can then download the notebooks from the github repo for this module and run them locally.  On Windows, to use Anaconda to run Jupyter notebooks search for 'Jupyter' and click on the 'Jupyter Notebook (Anaconda3)' app.
 
 ---
 
-### Using a cloud based solution - Google Colab
+## Using a cloud based solution - Google Colab
 
 *Google Colab* is an option if you don't want to install Anaconda locally: [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb).
 
@@ -45,7 +46,7 @@ and then download a copy of the .ipynb file:
 
 ---
 
-### Using Azure Lab Services
+## Using Azure Lab Services
 
 #### What is the Azure Labs service?
 
@@ -114,7 +115,7 @@ If you need additional hours contact the course coordinator.
 
 ---
 
-### Viewing (and editing and running with caveats) on binder
+## Viewing (and editing and running with caveats) on binder
 
 Clicking on a link like the following
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1.ipynb)
@@ -128,4 +129,4 @@ Be aware though that your changes to cells won't be saved and you will lose chan
 
 ---
 
-Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)
+Back to main page: [https://matt-piggott.github.io/Geophysical-inversion-undergraduate/](https://matt-piggott.github.io/Geophysical-inversion-undergraduate/)
