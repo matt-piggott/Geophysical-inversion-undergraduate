@@ -4,7 +4,7 @@ permalink: /notebooks/
 ---
 
 Links to the [Jupyter notebooks](http://jupyter.org/) making up this module can be found here:
-[lecture series](http://matt-piggott.github.io/Numerical-methods-undergraduate/lecture_series/).
+[lecture series](http://matt-piggott.github.io/Geophysical-inversion-undergraduate/lecture_series/).
 
 To run and edit the notebooks yourselves we have several options:
 
@@ -118,7 +118,7 @@ If you need additional hours contact the course coordinator.
 ## Viewing (and editing and running with caveats) on binder
 
 Clicking on a link like the following
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=notebook%2FLecture-1-Geophysical-inversion.ipynb)
 takes you to a copy of the notebook running on [Binder](https://mybinder.org/).
 
 This gives you a means to view the notebook, as well as to edit and run cells on the cloud.
