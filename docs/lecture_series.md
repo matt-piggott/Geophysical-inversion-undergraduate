@@ -10,7 +10,7 @@ The GitHub link to this modules lecture material can be found here:
 If you don't want to use Git to access the lectures, you can download individual lecture notebooks by clicking on the "Notebook file" links below, right clicking and choosing "Save as...", make sure the file has a .ipynb extension, you may need to change this yourself from .txt.
 
 Guidance on viewing and editing the notebooks may be found here:
-[https://matt-piggott.github.io/Geophysical-inversion-undergraduate/notebooks/](https://matt-piggott.github.io/Geophysical-inversion-undergraduate/notebooks/).
+[https://github.com/matt-piggott/Geophysical-inversion-undergraduate](https://github.com/matt-piggott/Geophysical-inversion-undergraduate/notebooks/).
 
 To *view* the notebooks on Binder use the links below.
 
