@@ -19,15 +19,20 @@ To *view* the notebooks on Binder use the links below.
 
 #### Lecture 1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=notebook%2FLecture-1-Geophysical-inversion.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/master/notebook/Lecture-1-Geophysical-inversion.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L1/L1.ipynb)
 
-**Solutions 1**
+**Questions**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1-homework.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=notebook%2FLecture-2-Geophysical-inversion-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L1/L1-homework.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/master/notebook/Lecture-1-Geophysical-inversion-Solutions.ipynb)
+**Solutions**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1-homework-solutions.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L1/L1-homework-solutions.ipynb)
 
 ---
 
