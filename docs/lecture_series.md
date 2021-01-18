@@ -19,11 +19,14 @@ To *view* the notebooks on Binder use the links below.
 
 #### Lecture 1
 
+**Lecture**
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1.ipynb)
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L1/L1.ipynb)
 
 **Questions**
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1-homework.ipynb)
 
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L1/L1-homework.ipynb)
