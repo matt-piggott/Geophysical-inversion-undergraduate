@@ -63,6 +63,32 @@ To *view* the notebooks on Binder use the links below.
 
 #### Lecture 3
 
+**Lecture**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL3%2FL3.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L3/L3.ipynb)
+
+**Extra notebook for the purpose of rotating plots**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL3%2Frotate_some_plots.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L3/rotate_some_plots.ipynb)
+
+**Questions**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL3%2FL3-homework.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L3/L3-homework.ipynb)
+
+**Solutions**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL3%2FL3-homework-solutions.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L3/L3-homework-solutions.ipynb)
+
+
+
 ---
 
 #### Lecture 4
