@@ -93,6 +93,28 @@ To *view* the notebooks on Binder use the links below.
 
 #### Lecture 4
 
+
+**Lecture**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL4%2FL4.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L4/L4.ipynb)
+
+
+**Questions**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL4%2FL4-homework.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L4/L4-homework.ipynb)
+
+**Solutions**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL4%2FL4-homework-solutions.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L4/L4-homework-solutions.ipynb)
+
+
+
 ---
 
 Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Geophysical-inversion-undergraduate/notebooks/)
