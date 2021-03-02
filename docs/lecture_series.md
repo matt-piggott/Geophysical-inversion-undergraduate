@@ -146,6 +146,10 @@ To *view* the notebooks on Binder use the links below.
 
 **Lecture**
 
+With binder you'll be able to view but not run the material
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL7%2FL7-homework-solutions.ipynb)
+
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L7/L7.ipynb)
 
 
