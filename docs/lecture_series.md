@@ -142,6 +142,20 @@ To *view* the notebooks on Binder use the links below.
 
 ---
 
+### Lecture 7 (we skipped a week)
+
+**Lecture**
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L7/L7.ipynb)
+
+
+
+
+
+
+---
+
+
 Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Geophysical-inversion-undergraduate/notebooks/)
 
 
