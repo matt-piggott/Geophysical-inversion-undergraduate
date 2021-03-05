@@ -153,7 +153,17 @@ With binder you'll be able to view but not run the material
 [Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L7/L7.ipynb)
 
 
+---
 
+### Lecture 8 (we skipped a week)
+
+**Lecture**
+
+With binder you'll be able to view but not run the material
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL8%2FL8.ipynb)
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L8/L8.ipynb)
 
 
 
