@@ -11,7 +11,6 @@ To run and edit the notebooks yourselves we have several options:
 ---
 
 ## Edit and run them locally using Anaconda
-
 It is possible to run everything on your desktop/laptop - this is a good option if you have firewall or internet issues. Anaconda should be installed on departmental machines. To install yourself look at [Anaconda](https://www.anaconda.com/download/) and choose Python 3.x. You can then download the notebooks from the github repo for this module and run them locally.  On Windows, to use Anaconda to run Jupyter notebooks search for 'Jupyter' and click on the 'Jupyter Notebook (Anaconda3)' app.
 
 ---
@@ -113,12 +112,13 @@ You will be allocated a set number of hours use of your virtual machine in Labs 
 If you need additional hours contact the course coordinator.
 
 
+
 ---
 
 ## Viewing (and editing and running with caveats) on binder
 
 Clicking on a link like the following
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=notebook%2FLecture-1-Geophysical-inversion.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures-2023%2FL1%2FL1.ipynb)
 takes you to a copy of the notebook running on [Binder](https://mybinder.org/).
 
 This gives you a means to view the notebook, as well as to edit and run cells on the cloud.
