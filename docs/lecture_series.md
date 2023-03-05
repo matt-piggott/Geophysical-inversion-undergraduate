@@ -95,6 +95,23 @@ To *view* the notebooks on Binder use the links below.
 
 #### Lecture 6
 
+**Lecture**
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures-2023/L6/L6.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures-2023%2FL6%2FL6.ipynb)
+
+**Questions**
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures-2023/L6/L6-homework.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures-2023%2FL6%2FL6-homework.ipynb)
+
+**Solutions**
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures-2023/L6/L6-homework-solutions.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures-2023%2FL6%2FL6-homework-solutions.ipynb)
 
 ---
 
