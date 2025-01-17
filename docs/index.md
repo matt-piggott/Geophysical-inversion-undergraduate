@@ -1,4 +1,4 @@
-This is a year 3/4 undergraduate course for geoscientists taught by [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott) and Rhodri Nelson.
+This is a year 3/4 undergraduate course for geoscientists taught by [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott) and [Rhodri Nelson](https://profiles.imperial.ac.uk/rhodri.nelson).
 It is designed to be a first introduction to inversion methods.
 
 Each lecture will cover:

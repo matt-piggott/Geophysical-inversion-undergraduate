@@ -118,7 +118,7 @@ If you need additional hours contact the course coordinator.
 ## Viewing (and editing and running with caveats) on binder
 
 Clicking on a link like the following
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures-2023%2FL1%2FL1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL1%2FL1.ipynb)
 takes you to a copy of the notebook running on [Binder](https://mybinder.org/).
 
 This gives you a means to view the notebook, as well as to edit and run cells on the cloud.
