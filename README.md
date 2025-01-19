@@ -1,4 +1,4 @@
-Geophysical Inversion
+Applied Inversion Methods (Geophysical Inversion)
 =================
 
 This is a course on inversion for undergraduates.
