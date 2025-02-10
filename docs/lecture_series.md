@@ -67,6 +67,12 @@ To *view* the notebooks on Binder use the links below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL4%2FL3.ipynb)
 
+**Solutions**
+
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Geophysical-inversion-undergraduate/main/lectures/L3/L3-solutions.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Geophysical-inversion-undergraduate/HEAD?filepath=lectures%2FL4%2FL3-solutions.ipynb)
+
 ---
 
 #### Lecture 4

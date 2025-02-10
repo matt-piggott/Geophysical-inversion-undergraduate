@@ -1,7 +1,11 @@
-name: numericalmethods
+name: appliedinversion
+channels:
+  - conda-forge
 dependencies:
- - jupyter
- - numpy
- - scipy
- - matplotlib
- - devito
+  - python=3.11
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pip:
+      - devito
